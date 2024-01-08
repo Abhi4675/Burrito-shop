@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://abhishekshah2020:Swaraabhi04@@cluster0.welg09a.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret" : "coffee_secret"
+}
